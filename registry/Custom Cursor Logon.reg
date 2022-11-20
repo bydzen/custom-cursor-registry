@@ -1,8 +1,8 @@
 Windows Registry Editor Version 5.00
 
 [HKEY_USERS\.DEFAULT\Control Panel\Cursors]
-"Arrow"="%SYSTEMROOT%\\Cursors\\DMZs\\Normal Select.cur"
-"Wait"="%SYSTEMROOT%\\Cursors\\DMZs\\Busy.ani"
-"AppStarting"="%SYSTEMROOT%\\Cursors\\DMZs\\Working In Background.ani"
-"IBeam"="%SYSTEMROOT%\\Cursors\\DMZs\\Text Select.cur"
-"Hand"="%SYSTEMROOT%\\Cursors\\DMZs\\Link Select.cur"
+"Arrow"="%SYSTEMROOT%\\Cursors\\DMZ\\White\\Normal Select.cur"
+"Wait"="%SYSTEMROOT%\\Cursors\\DMZ\\White\\Busy.ani"
+"AppStarting"="%SYSTEMROOT%\\Cursors\\DMZ\\White\\Working In Background.ani"
+"IBeam"="%SYSTEMROOT%\\Cursors\\DMZ\\White\\Text Select.cur"
+"Hand"="%SYSTEMROOT%\\Cursors\\DMZ\\White\\Link Select.cur"
